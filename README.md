@@ -13,12 +13,13 @@ http://localhost:4000/boleto
 
 ## Forma de utilizar
   1 - Instale as depencias com o comando #yarn install
+  
   2 - dentro da pasta src utilize o comando #yarn dev
   
-# Responses:
+## Responses:
 Status 200 OK Exemplo : 
 
-# Caso retorne TRUE
+## Caso retorne TRUE
 {
 
   sucess: true,
@@ -69,6 +70,8 @@ Status 200 OK Exemplo :
 400 BAD REQUEST
 {
 
-"message": "O código inserido possui 0 dígitos. Por favor insira uma numeração válida." ## PS: O ERRO PODE ALTERAR DE ACORDO COM O MODELO DOS DIGITOS  
+"message": "O código inserido possui 0 dígitos. Por favor insira uma numeração válida."
+
+### PS: O ERRO PODE ALTERAR DE ACORDO COM O MODELO DOS DIGITOS  
 
 }
