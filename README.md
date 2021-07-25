@@ -72,6 +72,7 @@ Status 200 OK Exemplo :
 
 "message": "O código inserido possui 0 dígitos. Por favor insira uma numeração válida."
 
-### PS: O ERRO PODE ALTERAR DE ACORDO COM O MODELO DOS DIGITOS  
-
 }
+
+### PS: O ERRO DENTRO DE MESSAGE: '' PODE ALTERAR DE ACORDO COM O MODELO DOS DIGITOS  
+
